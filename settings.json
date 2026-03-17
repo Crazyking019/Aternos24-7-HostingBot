@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Homewood.aternos.me:38744",
+    "ip": "Homewood.aternos.me",
     "port": 38744,
     "version": "",
     "try-creative": false
